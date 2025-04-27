@@ -1,7 +1,7 @@
 
 
 
-export default {
+const homePage = {
   name: "homePage",
   type: "document",
   title: "Home Page",
@@ -87,3 +87,4 @@ export default {
   ],
 };
 
+export default homePage;
